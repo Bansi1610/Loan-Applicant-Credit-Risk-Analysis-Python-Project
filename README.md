@@ -1,2 +1,2 @@
 # Loan-Applicant-Credit-Risk-Analysis-Python-Project
-# This project predicts whether a loan applicant is likely to default using machine learning techniques. The dataset is cleaned and analyzed, followed by feature engineering and model building to classify applicants into high-risk and low-risk categories. The project includes data preprocessing, exploratory data analysis, model training, and evaluation.
+This project predicts whether a loan applicant is likely to default using machine learning techniques. The dataset is cleaned and analyzed, followed by feature engineering and model building to classify applicants into high-risk and low-risk categories. The project includes data preprocessing, exploratory data analysis, model training, and evaluation.
