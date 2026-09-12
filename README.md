@@ -60,7 +60,12 @@ These visualizations help understand the distribution of applicant characteristi
 
 ## 🎯 Features & Target
 
-### Target Variable
+- Age
+- Total Work Experience
+- Number of years in city
+- Cost to Request Ratio
+- Cibil score
+- Overdrafts past12months
 
 ---
 
