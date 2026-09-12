@@ -62,9 +62,6 @@ These visualizations help understand the distribution of applicant characteristi
 
 ### Target Variable
 
-```text
-Total bounces past12months
-
 ---
 
 ## 🤖 Machine Learning Model
