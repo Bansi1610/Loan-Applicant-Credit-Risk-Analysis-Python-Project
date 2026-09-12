@@ -94,7 +94,7 @@ The model was further evaluated using different K values ranging from 1 to 14 to
 
 ---
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Python
 - Pandas
@@ -107,7 +107,7 @@ The model was further evaluated using different K values ranging from 1 to 14 to
 
 ---
 
-##💡 Key Concepts
+## 💡 Key Concepts
 
 - Data exploration
 - Data quality checking
@@ -132,13 +132,13 @@ Loan-Applicant-Credit-Risk-Analysis-Python
 
 ---
 
-##💡Outcome
+## 💡Outcome
 
 This project demonstrates the application of Python-based exploratory data analysis and KNN classification to analyze loan applicant information and evaluate risk segmentation performance across different K values.
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Bansi Hadiyal
 
