@@ -129,12 +129,14 @@ The model was further evaluated using different K values ranging from 1 to 14 to
 
 ## 📁 Structure
 
+```text
 Loan-Applicant-Credit-Risk-Analysis-Python
 │
 ├── README.md
 ├── Loan Applicant Credit Risk Analysis.ipynb
 └── Loan Applicant Risk Segmentation Dataset.xlsx
 
+```
 ---
 
 ## 💡Outcome
