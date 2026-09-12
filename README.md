@@ -65,7 +65,7 @@ These visualizations help understand the distribution of applicant characteristi
 - Number of years in city
 - Cost to Request Ratio
 - Cibil score
-- Overdrafts past12months
+- Overdrafts past 12 months
 
 ---
 
